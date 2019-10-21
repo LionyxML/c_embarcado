@@ -9,9 +9,9 @@ Compilador: C18 em Ambiente MPLAB X
 
 
 Objetivo do programa: Constantes, Tipos e Declaração de Variáveis.
- Utilizar o simulador Step-By-Step do MPLAB e Breakpoints.
+Utilizar o simulador Step-By-Step do MPLAB e Breakpoints.
 
- */
+*/
 
 
 

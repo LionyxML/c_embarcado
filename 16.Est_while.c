@@ -8,7 +8,7 @@ Compilador: C18 em Ambiente MPLAB X
 =============================================================
 
 
-Objetivo do programa: estudo da estrutura wihle.
+Objetivo do programa: estudo da estrutura while.
 
  */
 

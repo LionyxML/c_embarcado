@@ -15,7 +15,7 @@ Objetivo do programa: Estudar Macros e Diretivas.
 
 
 
-//Para diretivas, não se termina as linahs com ;
+//Para diretivas, não se termina as linhas com ;
 
 /*
    #include serve para icluir outro arquivo de código fonte,
@@ -32,7 +32,7 @@ Objetivo do programa: Estudar Macros e Diretivas.
 
 //Sintaxe: #diretiva identificador valor
 #define Buffer 500                          //Buffer é uma constante de valor 500
-#define Mensagem "Programar em C eh d+!"    //Mesnagem é uma String constante
+#define Mensagem "Progrando em C! Uhul!"    //Mensagem é uma String constante
 
 
 //Macros como funções:

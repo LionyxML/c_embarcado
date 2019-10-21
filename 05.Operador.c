@@ -76,11 +76,11 @@ void main()
 
 /*
 
- Conversão Implicita
+ Conversão Implícita
  int/int=int mesmo que a saída seja float, não há decimal
- float/int=fload
+ float/int=float
 
- Conversão Explicita
+ Conversão Explícita
  Ex.:
  int x=10;
  float y=3.0, z;

@@ -1,4 +1,4 @@
-/*
+ /*
 =============================================================
 Exemplos de Programas em Linguagem C para Sistemas Embarcados
 

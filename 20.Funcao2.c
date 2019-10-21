@@ -17,8 +17,10 @@ Objetivo do programa: estudo de funções.
 /*
 
  Uma função pode receber valores (argumentos), podem ser passados
- para a função de 2 maneiras.
- Passagem por valor e referência.
+ para a função de 2 maneiras:
+
+ 1 - Passagem por valor 
+ 2 - Passagem por referência
 
  Passagem por valor, onde as variáveis originais não são utilizadas, mas
  copiadas para dentro da função.
